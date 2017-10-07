@@ -343,7 +343,7 @@ binding arbitration, litigation, or some other type of dispute
 resolution process.
 
 
-## Recovery
+### Recovery
 
 In the event of litigation relating to this Agreement, the
 prevailing party shall be entitled to recover its reasonable
@@ -367,7 +367,7 @@ waiver of its right to subsequently enforce such provision or any
 other provision of this Agreement.
 
 
-## Remedies
+### Remedies
 
 Both parties acknowledge that the Confidential Information to be
 disclosed hereunder is of a unique and valuable character, and that
@@ -403,13 +403,13 @@ only be modified by a written amendment signed by the party against
 whom enforcement of such modification is sought.
 
 
-## Change order
+### Change order
 
 Any agreements not specified in this contract must be mutually
 authorized by a written change order.
 
 
-## Warranties and guarantees
+### Warranties and guarantees
 
 Each party warrants that it has the right to make the disclosures
 under this Agreement.
