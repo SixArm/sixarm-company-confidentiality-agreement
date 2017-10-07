@@ -1,5 +1,11 @@
 # Confidentiality agreement 
 
+
+## 1. Introdcution
+
+
+### Parties
+
 This AGREEMENT is between:
 
 (person name):
@@ -22,7 +28,7 @@ and:
 
 (company address):
 
-hereafter referred to as the "Receiving Party"
+hereafter referred to as the "Receiving Party".
 
 to participate in discussions regarding:
 
@@ -30,9 +36,35 @@ to participate in discussions regarding:
 
 hereafter referred to as the "Transaction".
 
+
+### Date
+
 This agreement is dated and in effect as of:
 
 (date):
+
+
+### Location
+
+This Agreement shall be governed by and construed in accordance with
+the laws of:
+
+(city):
+
+(state):
+
+The validity, construction and performance of this Agreement shall
+be governed and construed in accordance, with the laws of
+applicable to contracts made and to be wholly performed within such state, without giving effect to any conflict of laws provisions thereof. 
+
+The Federal and state courts located in the state shall have sole and exclusive jurisdiction over any disputes arising under the terms of this Agreement.
+
+This agreement includes the right of forum non conveniens. For
+example, to change the location if there is a mutually-preferable
+location.
+
+
+### Purpose
 
 During these discussions, Disclosing Party may share certain
 proprietary information with the Receiving Party. Therefore, in
@@ -42,7 +74,15 @@ sufficiency of which is hereby acknowledged, the parties hereto agree
 as follows:
 
 
-## Definition of Confidential Information
+### Headings
+
+Headings used in this Agreement are for reference only and shall not be used or relied upon in the interpretation of this Agreement.
+
+
+## 2. Definitions
+
+
+### Confidential Information
 
 For purposes of this Agreement, “Confidential Information” means any
 data or information that is proprietary to the Disclosing Party and
@@ -99,7 +139,24 @@ or agents of the Receiving Party without violation of the terms of
 this Agreement or reference or access to any Confidential Information.
 
 
-## Disclosure of Confidential Information
+## 3. Documents
+
+
+### Consulting agreement 
+
+A separate Consulting Agreement will describe any working releationship.
+
+
+### Statement of Work (SOW)
+
+A separate Statement Of Work ("SOW") will describe any work, such as
+any plans, deliverables, etc.
+
+
+## 4. Content
+
+
+### 4.1 Disclosure of Confidential Information
 
 From time to time, the Disclosing Party may disclose Confidential
 Information to the Receiving Party. The Receiving Party will:
@@ -127,7 +184,7 @@ Each party shall be responsible for any breach of this Agreement by
 any of their respective Representatives.
 
 
-## Use of Confidential Information
+### 4.2 Use of Confidential Information
 
 The Receiving Party agrees to use the Confidential Information solely
 in connection with the current or contemplated business relationship
@@ -150,7 +207,7 @@ agreement that their discussions in furtherance of a potential
 business relationship are governed by Federal Rule of Evidence 408.
 
 
-## Compelled Disclosure of Confidential Information
+### 4.3 Compelled Disclosure of Confidential Information
 
 Notwithstanding anything in the foregoing to the contrary, the
 Receiving Party may disclose Confidential Information pursuant to any
@@ -177,40 +234,7 @@ Information, disclosure of such Confidential Information may be made
 without liability.
 
 
-## Term
-
-This Agreement shall remain in effect for a two-year term (subject to
-a one year extension if the parties are still discussing and
-considering the Transaction at the end of the second year).
-
-Notwithstanding the foregoing, the parties’ duty to hold in confidence
-Confidential Information that was disclosed during term shall remain
-in effect indefinitely.
-
-
-## Remedies
-
-Both parties acknowledge that the Confidential Information to be
-disclosed hereunder is of a unique and valuable character, and that
-the unauthorized dissemination of the Confidential Information would
-destroy or diminish the value of such information. The damages to
-Disclosing Party that would result from the unauthorized dissemination
-of the Confidential Information would be impossible to calculate.
-
-Therefore, both parties hereby agree that the Disclosing Party shall
-be entitled to injunctive relief preventing the dissemination of any
-Confidential Information in violation of the terms hereof. Such
-injunctive relief shall be in addition to any other remedies available
-hereunder, whether at law or in equity. Disclosing Party shall be
-entitled to recover its costs and fees, including reasonable
-attorneys’ fees, incurred in obtaining any such relief.
-
-Further, in the event of litigation relating to this Agreement, the
-prevailing party shall be entitled to recover its reasonable
-attorney’s fees and expenses.
-
-
-## Return of Confidential Information
+## 4.4 Return of Confidential Information
 
 Receiving Party shall immediately return and redeliver to the other
 all tangible material embodying the Confidential Information provided
@@ -237,7 +261,7 @@ such destruction by an authorized officer of the Receiving Party
 supervising the destruction).
 
 
-## Notice of Breach
+## 4.5 Notice of Breach
 
 Receiving Party shall notify the Disclosing Party immediately upon
 discovery of any unauthorized use or disclosure of Confidential
@@ -248,7 +272,7 @@ Disclosing Party regain possession of Confidential Information and
 prevent its further unauthorized use.
 
 
-## No Binding Agreement for Transaction
+## 4.6 No Binding Agreement for Transaction
 
 The parties agree that neither party will be under any legal
 obligation of any kind whatsoever with respect to a Transaction by
@@ -268,13 +292,135 @@ Agreement. In the event such provision is not provided for in said
 transaction documents, this Agreement shall control.
 
 
-## Warranty
+### 4.7 Competition
+
+The receipt of Confidential Information pursuant to this Agreement
+will not prevent or in any way limit either party from: (i)
+developing, making or marketing products or services that are or may
+be competitive with the products or services of the other; or (ii)
+providing products or services to others who compete with the other.
+
+
+## 4.8 Term
+
+This Agreement shall remain in effect for a two-year term (subject to
+a one year extension if the parties are still discussing and
+considering the Transaction at the end of the second year).
+
+Notwithstanding the foregoing, the parties’ duty to hold in confidence
+Confidential Information that was disclosed during term shall remain
+in effect indefinitely.
+
+
+## 5. Resolution
+
+
+### Agreement to resolve claims
+
+We use the American Arbitration Association (AAA) standard procedures
+for mediation and non-binding arbitration.
+
+
+### Mediation
+
+If any controversy or claim arises out of or relating to this
+contract, or the breach thereof, and cannot be settled through
+negotiation, then the parties agree to try in good faith to settle the
+dispute by mediation administered by the American Arbitration
+Association under its mediation procedures before resorting to
+arbitration, litigation or some other dispute resolution procedure.
+
+
+### Non-Binding Arbitration
+
+If any controversy or claim arises out of or relating to this
+contract, or the breach thereof, which cannot be settled by mediation
+as described above, then the parties agree to submit to non-binding
+arbitration administered by the American Arbitration Association under
+its Non-Binding Arbitration Rules before the parties may initiate
+binding arbitration, litigation, or some other type of dispute
+resolution process.
+
+
+## Recovery
+
+In the event of litigation relating to this Agreement, the
+prevailing party shall be entitled to recover its reasonable
+attorney’s fees and expenses.
+
+
+### Integrity
+
+If any provision of this Agreement, or restriction of this Agreement, is
+found by a court of competent jurisdiction to be unlawful, or unenforceable, or void, 
+such
+provision will be modified, rewritten or interpreted to include as
+much of its nature and scope as will render it enforceable. If it
+cannot be so modified, rewritten or interpreted to be enforceable in
+any respect, it will not be given effect, and the remainder of the
+Agreement will be enforced as if such provision was not included.
+
+Any failure by either party to enforce the other party’s strict
+performance of any provision of this Agreement will not constitute a
+waiver of its right to subsequently enforce such provision or any
+other provision of this Agreement.
+
+
+## Remedies
+
+Both parties acknowledge that the Confidential Information to be
+disclosed hereunder is of a unique and valuable character, and that
+the unauthorized dissemination of the Confidential Information would
+destroy or diminish the value of such information. The damages to
+Disclosing Party that would result from the unauthorized dissemination
+of the Confidential Information would be impossible to calculate.
+
+Therefore, both parties hereby agree that the Disclosing Party shall
+be entitled to injunctive relief preventing the dissemination of any
+Confidential Information in violation of the terms hereof. Such
+injunctive relief shall be in addition to any other remedies available
+hereunder, whether at law or in equity. Disclosing Party shall be
+entitled to recover its costs and fees, including reasonable
+attorneys’ fees, incurred in obtaining any such relief.
+
+
+## 6. Limits
+
+
+### Sole agreement
+
+This Agreement constitutes the entire understanding between the
+parties and supersedes any and all prior or contemporaneous
+understandings and agreements, whether oral or written, between the
+parties, with respect to the subject matter hereof. 
+
+
+### Modification
+
+This Agreement can
+only be modified by a written amendment signed by the party against
+whom enforcement of such modification is sought.
+
+
+## Change order
+
+Any agreements not specified in this contract must be mutually
+authorized by a written change order.
+
+
+## Warranties and guarantees
 
 Each party warrants that it has the right to make the disclosures
 under this Agreement.
 
 NO WARRANTIES ARE MADE BY EITHER PARTY UNDER THIS AGREEMENT
 WHATSOEVER.
+
+NO GUARANTEES ARE MADE BY EITHER PARTY UNDER THIS AGREEMENT
+WHATSOEVER.
+
+The parties disclaim any warranties or guarantees imposed by law, such
+as merchantability, or fitness for particular purpose.
 
 The parties acknowledge that although they shall each endeavor to
 include in the Confidential Information all information that they each
@@ -291,40 +437,9 @@ of the Confidential Information except with respect to disclosure of
 such Confidential Information in violation of this Agreement.
 
 
-## Miscellaneous
+### Communications
 
-(a) This Agreement constitutes the entire understanding between the
-parties and supersedes any and all prior or contemporaneous
-understandings and agreements, whether oral or written, between the
-parties, with respect to the subject matter hereof. This Agreement can
-only be modified by a written amendment signed by the party against
-whom enforcement of such modification is sought.
-
-(b) The validity, construction and performance of this Agreement shall
-be governed and construed in accordance with the laws of
-_____________________ (state) applicable to contracts made and to be
-wholly performed within such state, without giving effect to any
-conflict of laws provisions thereof. The Federal and state courts
-located in _______________ (state) shall have sole and exclusive
-jurisdiction over any disputes arising under the terms of this
-Agreement.
-
-(c) Any failure by either party to enforce the other party’s strict
-performance of any provision of this Agreement will not constitute a
-waiver of its right to subsequently enforce such provision or any
-other provision of this Agreement.
-
-(d) Although the restrictions contained in this Agreement are
-considered by the parties to be reasonable for the purpose of
-protecting the Confidential Information, if any such restriction is
-found by a court of competent jurisdiction to be unenforceable, such
-provision will be modified, rewritten or interpreted to include as
-much of its nature and scope as will render it enforceable. If it
-cannot be so modified, rewritten or interpreted to be enforceable in
-any respect, it will not be given effect, and the remainder of the
-Agreement will be enforced as if such provision was not included.
-
-(e) Any notices or communications required or permitted to be given
+Any notices or communications required or permitted to be given
 hereunder may be delivered by hand, deposited with a nationally
 recognized overnight carrier, electronic-mail, or mailed by certified
 mail, return receipt requested, postage prepaid, in each case, to the
@@ -337,30 +452,23 @@ delivery by a nationally recognized overnight carrier, on the third
 business day following dispatch and (c) in the case of mailing, on the
 seventh business day following such mailing.
 
-(f) This Agreement is personal in nature, and neither party may
+
+### Transfer
+
+This Agreement is personal in nature, and neither party may
 directly or indirectly assign or transfer it by operation of law or
 otherwise without the prior written consent of the other party, which
 consent will not be unreasonably withheld. All obligations contained
 in this Agreement shall extend to and be binding upon the parties to
 this Agreement and their respective successors, assigns and designees.
 
-(g) The receipt of Confidential Information pursuant to this Agreement
-will not prevent or in any way limit either party from: (i)
-developing, making or marketing products or services that are or may
-be competitive with the products or services of the other; or (ii)
-providing products or services to others who compete with the other.
 
-(h) Paragraph headings used in this Agreement are for reference only
-and shall not be used or relied upon in the interpretation of this
-Agreement.
-
-
-## Signatures
+## 7. Signatures
 
 IN WITNESS WHEREOF, the parties hereto have executed this Agreement as
 of the date first above written.
 
-Disclosing Party:
+On behalf of Disclosing Party:
 
 (sign name):
 
@@ -368,7 +476,7 @@ Disclosing Party:
 
 (date):
 
-Receiving Party:
+On behalf of Receiving Party:
 
 (sign name):
 
