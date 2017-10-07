@@ -1,7 +1,7 @@
 # Confidentiality agreement 
 
 
-## 1. Introdcution
+## 1. Introduction
 
 
 ### Parties
