@@ -76,7 +76,8 @@ as follows:
 
 ### Headings
 
-Headings used in this Agreement are for reference only and shall not be used or relied upon in the interpretation of this Agreement.
+Headings used in this Agreement are for reference only and shall not
+be used or relied upon in the interpretation of this Agreement.
 
 
 ## 2. Definitions
@@ -351,14 +352,14 @@ attorney’s fees and expenses.
 
 ### Integrity
 
-If any provision of this Agreement, or restriction of this Agreement, is
-found by a court of competent jurisdiction to be unlawful, or unenforceable, or void, 
-such
-provision will be modified, rewritten or interpreted to include as
-much of its nature and scope as will render it enforceable. If it
-cannot be so modified, rewritten or interpreted to be enforceable in
-any respect, it will not be given effect, and the remainder of the
-Agreement will be enforced as if such provision was not included.
+If any provision of this Agreement, or restriction of this Agreement,
+is found by a court of competent jurisdiction to be unlawful, or
+unenforceable, or void, such provision will be modified, rewritten or
+interpreted to include as much of its nature and scope as will render
+it enforceable. If it cannot be so modified, rewritten or interpreted
+to be enforceable in any respect, it will not be given effect, and the
+remainder of the Agreement will be enforced as if such provision was
+not included.
 
 Any failure by either party to enforce the other party’s strict
 performance of any provision of this Agreement will not constitute a
@@ -455,12 +456,12 @@ seventh business day following such mailing.
 
 ### Transfer
 
-This Agreement is personal in nature, and neither party may
-directly or indirectly assign or transfer it by operation of law or
-otherwise without the prior written consent of the other party, which
-consent will not be unreasonably withheld. All obligations contained
-in this Agreement shall extend to and be binding upon the parties to
-this Agreement and their respective successors, assigns and designees.
+This Agreement is personal in nature, and neither party may directly
+or indirectly assign or transfer it by operation of law or otherwise
+without the prior written consent of the other party, which consent
+will not be unreasonably withheld. All obligations contained in this
+Agreement shall extend to and be binding upon the parties to this
+Agreement and their respective successors, assigns and designees.
 
 
 ## 7. Signatures
