@@ -235,7 +235,7 @@ Information, disclosure of such Confidential Information may be made
 without liability.
 
 
-## 4.4 Return of Confidential Information
+### 4.4 Return of Confidential Information
 
 Receiving Party shall immediately return and redeliver to the other
 all tangible material embodying the Confidential Information provided
@@ -262,7 +262,7 @@ such destruction by an authorized officer of the Receiving Party
 supervising the destruction).
 
 
-## 4.5 Notice of Breach
+### 4.5 Notice of Breach
 
 Receiving Party shall notify the Disclosing Party immediately upon
 discovery of any unauthorized use or disclosure of Confidential
@@ -273,7 +273,7 @@ Disclosing Party regain possession of Confidential Information and
 prevent its further unauthorized use.
 
 
-## 4.6 No Binding Agreement for Transaction
+### 4.6 No Binding Agreement for Transaction
 
 The parties agree that neither party will be under any legal
 obligation of any kind whatsoever with respect to a Transaction by
@@ -302,7 +302,7 @@ be competitive with the products or services of the other; or (ii)
 providing products or services to others who compete with the other.
 
 
-## 4.8 Term
+### 4.8 Term
 
 This Agreement shall remain in effect for a two-year term (subject to
 a one year extension if the parties are still discussing and
