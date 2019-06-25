@@ -47,17 +47,19 @@ This agreement is dated and in effect as of:
 ### Location
 
 This Agreement shall be governed by and construed in accordance with
-the laws of:
+the laws of the location:
 
-(city):
-
-(state):
+(location):
 
 The validity, construction and performance of this Agreement shall
-be governed and construed in accordance, with the laws of
-applicable to contracts made and to be wholly performed within such state, without giving effect to any conflict of laws provisions thereof. 
+be governed and construed in accordance, with the laws of location,
+applicable to contracts made and to be wholly performed within such 
+location, without giving effect to any conflict of laws provisions 
+thereof. 
 
-The Federal and state courts located in the state shall have sole and exclusive jurisdiction over any disputes arising under the terms of this Agreement.
+The courts located in the location shall have sole and exclusive 
+jurisdiction over any disputes arising under the terms of this 
+Agreement.
 
 This agreement includes the right of forum non conveniens. For
 example, to change the location if there is a mutually-preferable
@@ -71,7 +73,7 @@ proprietary information with the Receiving Party. Therefore, in
 consideration of the mutual promises and covenants contained in this
 Agreement, and other good and valuable consideration, the receipt and
 sufficiency of which is hereby acknowledged, the parties hereto agree
-as follows:
+as follows.
 
 
 ### Headings
