@@ -3,53 +3,110 @@
 
 ## 1. Introduction
 
+This Agreement is between the parties named below.
 
-### Parties
 
-This AGREEMENT is between:
+### Disclosing Party
 
-(person name):
+Person name: 
 
-(person title):
+```
+_____________________________________________________________________
+```
 
-(company name):
+Person title, or position, or role:
 
-(company address):
+```
+_____________________________________________________________________
+```
 
-hereafter referred to as the "Disclosing Party"
+Person address: 
 
-and:
+```
+_____________________________________________________________________
+```
 
-(person name):
+Company name, if any: 
 
-(person title):
+```
+_____________________________________________________________________
+```
 
-(company name):
+Company address, if any: 
 
-(company address):
+```
+_____________________________________________________________________
+```
 
-hereafter referred to as the "Receiving Party".
+This is hereafter referred to as the "Disclosing Party".
 
-to participate in discussions regarding:
 
-(description):
+### Receiving Party
 
-hereafter referred to as the "Transaction".
+
+Person name: 
+
+```
+_____________________________________________________________________
+```
+
+Person title, or position, or role:
+
+```
+_____________________________________________________________________
+```
+
+Person address: 
+
+```
+_____________________________________________________________________
+```
+
+Company name, if any: 
+
+```
+_____________________________________________________________________
+```
+
+Company address, if any: 
+
+```
+_____________________________________________________________________
+```
+
+This is hereafter referred to as the "Receiving Party".
+
+
+### Transaction
+
+This Agreement is created to participate in discussions regarding
+a transaction, summarized as follows:
+
+```
+_____________________________________________________________________
+```
+
+This is hereafter referred to as the "Transaction".
 
 
 ### Date
 
-This agreement is dated and in effect as of:
+This Agreement is dated and in effect as of:
 
-(date):
+Date:
 
+```
+_____________________________________________________________________
+```
 
 ### Location
 
 This Agreement shall be governed by and construed in accordance with
 the laws of the location:
 
-(location):
+```
+_____________________________________________________________________
+```
 
 The validity, construction and performance of this Agreement shall
 be governed and construed in accordance, with the laws of location,
@@ -61,7 +118,7 @@ The courts located in the location shall have sole and exclusive
 jurisdiction over any disputes arising under the terms of this 
 Agreement.
 
-This agreement includes the right of forum non conveniens. For
+This Agreement includes the right of forum non conveniens. For
 example, to change the location if there is a mutually-preferable
 location.
 
@@ -147,7 +204,7 @@ this Agreement or reference or access to any Confidential Information.
 
 ### Consulting agreement 
 
-A separate Consulting Agreement will describe any working releationship.
+A separate Consulting Agreement will describe any working relationship.
 
 
 ### Statement of Work (SOW)
@@ -471,18 +528,48 @@ Agreement and their respective successors, assigns and designees.
 IN WITNESS WHEREOF, the parties hereto have executed this Agreement as
 of the date first above written.
 
+
+### Disclosing Party
+
 On behalf of Disclosing Party:
 
-(sign name):
+Sign name:  
 
-(print name):
+```
+_____________________________________________________________________
+```
 
-(date):
+Print name:
+
+```
+_____________________________________________________________________
+```
+
+Date:
+
+```
+_____________________________________________________________________
+```
+
+
+### Receiving Party
 
 On behalf of Receiving Party:
 
-(sign name):
+Sign name:  
 
-(print name):
+```
+_____________________________________________________________________
+```
 
-(date):
+Print name:
+
+```
+_____________________________________________________________________
+```
+
+Date:
+
+```
+_____________________________________________________________________
+```
