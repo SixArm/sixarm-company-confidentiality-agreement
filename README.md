@@ -6,7 +6,7 @@
 This Agreement is between the parties named below.
 
 
-### Disclosing Party
+### 1.1. Disclosing Party
 
 Person name: 
 
@@ -41,7 +41,7 @@ _____________________________________________________________________
 This is hereafter referred to as the "Disclosing Party".
 
 
-### Receiving Party
+### 1.2. Receiving Party
 
 
 Person name: 
@@ -77,7 +77,7 @@ _____________________________________________________________________
 This is hereafter referred to as the "Receiving Party".
 
 
-### Transaction
+### 1.3. Transaction
 
 This Agreement is created to participate in discussions regarding
 a transaction, summarized as follows:
@@ -88,8 +88,15 @@ _____________________________________________________________________
 
 This is hereafter referred to as the "Transaction".
 
+During these discussions, Disclosing Party may share certain
+proprietary information with the Receiving Party. Therefore, in
+consideration of the mutual promises and covenants contained in this
+Agreement, and other good and valuable consideration, the receipt and
+sufficiency of which is hereby acknowledged, the parties hereto agree
+as follows.
 
-### Date
+
+### 1.4. Date
 
 This Agreement is dated and in effect as of:
 
@@ -99,7 +106,7 @@ Date:
 _____________________________________________________________________
 ```
 
-### Location
+### 1.5. Location
 
 This Agreement shall be governed by and construed in accordance with
 the laws of the location:
@@ -123,17 +130,7 @@ example, to change the location if there is a mutually-preferable
 location.
 
 
-### Purpose
-
-During these discussions, Disclosing Party may share certain
-proprietary information with the Receiving Party. Therefore, in
-consideration of the mutual promises and covenants contained in this
-Agreement, and other good and valuable consideration, the receipt and
-sufficiency of which is hereby acknowledged, the parties hereto agree
-as follows.
-
-
-### Headings
+### 1.6. Headings
 
 Headings used in this Agreement are for reference only and shall not
 be used or relied upon in the interpretation of this Agreement.
@@ -142,7 +139,7 @@ be used or relied upon in the interpretation of this Agreement.
 ## 2. Definitions
 
 
-### Confidential Information
+### 2.1. Confidential Information
 
 For purposes of this Agreement, “Confidential Information” means any
 data or information that is proprietary to the Disclosing Party and
@@ -176,6 +173,8 @@ been developed and obtained through great efforts by the Disclosing
 Party and that Disclosing Party regards all of its Confidential
 Information as trade secrets.
 
+### 2.2. Non-Confidential Information
+
 Notwithstanding anything in the foregoing to the contrary,
 Confidential Information shall not include information which:
 
@@ -202,12 +201,12 @@ this Agreement or reference or access to any Confidential Information.
 ## 3. Documents
 
 
-### Consulting agreement 
+### 3.1. Consulting agreement 
 
 A separate Consulting Agreement will describe any working relationship.
 
 
-### Statement of Work (SOW)
+### 3.2. Statement of Work (SOW)
 
 A separate Statement Of Work ("SOW") will describe any work, such as
 any plans, deliverables, etc.
@@ -375,13 +374,13 @@ in effect indefinitely.
 ## 5. Resolution
 
 
-### Agreement to resolve claims
+### 5.1. Agreement to resolve claims
 
 We use the American Arbitration Association (AAA) standard procedures
 for mediation and non-binding arbitration.
 
 
-### Mediation
+### 5.2. Mediation
 
 If any controversy or claim arises out of or relating to this
 contract, or the breach thereof, and cannot be settled through
@@ -391,7 +390,7 @@ Association under its mediation procedures before resorting to
 arbitration, litigation or some other dispute resolution procedure.
 
 
-### Non-Binding Arbitration
+### 5.3. Non-Binding Arbitration
 
 If any controversy or claim arises out of or relating to this
 contract, or the breach thereof, which cannot be settled by mediation
@@ -402,14 +401,14 @@ binding arbitration, litigation, or some other type of dispute
 resolution process.
 
 
-### Recovery
+### 5.6. Recovery
 
 In the event of litigation relating to this Agreement, the
 prevailing party shall be entitled to recover its reasonable
 attorney’s fees and expenses.
 
 
-### Integrity
+### 5.7. Integrity
 
 If any provision of this Agreement, or restriction of this Agreement,
 is found by a court of competent jurisdiction to be unlawful, or
@@ -426,7 +425,7 @@ waiver of its right to subsequently enforce such provision or any
 other provision of this Agreement.
 
 
-### Remedies
+### 5.8. Remedies
 
 Both parties acknowledge that the Confidential Information to be
 disclosed hereunder is of a unique and valuable character, and that
@@ -447,7 +446,7 @@ attorneys’ fees, incurred in obtaining any such relief.
 ## 6. Limits
 
 
-### Sole agreement
+### 6.1. Sole agreement
 
 This Agreement constitutes the entire understanding between the
 parties and supersedes any and all prior or contemporaneous
@@ -455,20 +454,20 @@ understandings and agreements, whether oral or written, between the
 parties, with respect to the subject matter hereof. 
 
 
-### Modification
+### 6.2. Modification
 
 This Agreement can
 only be modified by a written amendment signed by the party against
 whom enforcement of such modification is sought.
 
 
-### Change order
+### 6.3. Change order
 
 Any agreements not specified in this contract must be mutually
 authorized by a written change order.
 
 
-### Warranties and guarantees
+### 6.4. Warranties and guarantees
 
 Each party warrants that it has the right to make the disclosures
 under this Agreement.
@@ -497,7 +496,7 @@ of the Confidential Information except with respect to disclosure of
 such Confidential Information in violation of this Agreement.
 
 
-### Communications
+### 6.5. Communications
 
 Any notices or communications required or permitted to be given
 hereunder may be delivered by hand, deposited with a nationally
@@ -513,7 +512,7 @@ business day following dispatch and (c) in the case of mailing, on the
 seventh business day following such mailing.
 
 
-### Transfer
+### 6.7. Transfer
 
 This Agreement is personal in nature, and neither party may directly
 or indirectly assign or transfer it by operation of law or otherwise
@@ -529,7 +528,7 @@ IN WITNESS WHEREOF, the parties hereto have executed this Agreement as
 of the date first above written.
 
 
-### Disclosing Party
+### 7.1. Disclosing Party
 
 On behalf of Disclosing Party:
 
@@ -552,7 +551,7 @@ _____________________________________________________________________
 ```
 
 
-### Receiving Party
+### 7.2. Receiving Party
 
 On behalf of Receiving Party:
 
